@@ -1,4 +1,4 @@
-# AI Decision Responsibility Protocol (ADRP) v1.0
+# AI Decision Responsibility Protocol 
 
 Protocol ID: ADRP-001
 Version: 1.0
