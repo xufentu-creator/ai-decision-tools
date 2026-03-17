@@ -41,6 +41,25 @@ These layers collectively define a governance-oriented architecture for decision
 
 ---
 
+## Implementation Tools
+
+To support practical application of the ADRP protocols, the framework also provides a set of governance tools.
+
+These tools help organizations translate protocol principles into operational decision structures.
+
+TOOL-001 — Decision Responsibility Map Builder  
+Supports the identification and mapping of responsibility allocation within decision processes.
+
+TOOL-002 — Human Judgment Node Checklist  
+Helps organizations identify where human judgment must remain within AI-mediated decision systems.
+
+TOOL-003 — Decision Traceability Template  
+Provides a structured format for documenting and tracing decision processes.
+
+These tools provide implementation support for the ADRP protocol framework but are not themselves protocols.
+
+---
+
 ## Scope
 
 The ADRP protocol framework defines structural principles and governance interfaces.  
@@ -52,4 +71,4 @@ It does not prescribe specific implementation methods.
 
 TUX-133.144~
 
-This identifier functions as a structural identity anchor associated with the protocol architecture.
+This identifier serves as a structural identity anchor associated with the protocol architecture and authorship traceability.
