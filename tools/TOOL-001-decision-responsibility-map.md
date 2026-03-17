@@ -134,4 +134,4 @@ It does not constitute legal, regulatory, or professional advice.
 
 TUX-133.144~
 
-The identity anchor is used for structural reference and authorship traceability only.
+The identity anchor is provided for structural reference and authorship traceability.
