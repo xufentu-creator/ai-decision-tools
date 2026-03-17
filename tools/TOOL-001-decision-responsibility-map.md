@@ -46,7 +46,7 @@ The tool applies to any system where:
 A decision responsibility map represents the structure of a decision process, including:
 
 • input sources  
-• system processing (AI or automated logic)  
+• system processing
 • decision points  
 • human judgment nodes  
 • final decision authority  
