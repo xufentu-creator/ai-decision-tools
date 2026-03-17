@@ -283,6 +283,29 @@ The author assumes no liability for direct operational use of this framework wit
 
 ---
 
+## Structural Definition and Method Flexibility
+
+This protocol defines structural relationships within AI-mediated decision systems.
+
+It does not prescribe a single implementation method.
+
+Different organizations may adopt different approaches
+while maintaining alignment with the structural concepts
+described in this framework.
+
+---
+
+## Applicability and Non-Binding Nature
+
+This protocol represents a conceptual governance framework.
+
+It is not mandatory, enforceable, or legally binding.
+
+Adoption and implementation are voluntary and context-dependent.
+
+---
+
+
 ## Related Research
 
 This protocol derives from the research framework:
