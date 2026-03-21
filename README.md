@@ -10,12 +10,26 @@ As AI systems increasingly participate in operational and strategic decisions, r
 
 The ADRP framework provides a structured approach to:
 
-* define responsibility allocation
-* preserve human judgment
-* ensure decision traceability
-* support governance and audit
+* define responsibility allocation  
+* preserve human judgment  
+* ensure decision traceability  
+* support governance and audit  
 
 This repository contains both **protocol definitions** and **practical tools** for implementation.
+
+---
+
+## Core Proposition
+
+Human judgment functions as a structural constraint in AI-mediated decision systems, ensuring that responsibility and accountability remain anchored in human actors.
+
+---
+
+## Conceptual Framework
+
+The ADRP system is grounded in the following structural framework:
+
+![Human Judgment Governance Framework](docs/human-judgment-framework-v1.0.png)
 
 ---
 
@@ -23,37 +37,41 @@ This repository contains both **protocol definitions** and **practical tools** f
 
 ### Protocol Layer
 
-The protocol layer defines governance principles:
+The protocol layer defines structural principles and is not intended as an operational procedure.
 
-* ADRP-001 — Responsibility Structure
-* ADRP-002 — Human Judgment Node
-* ADRP-003 — Decision Traceability
-* ADRP-004 — Risk Boundary
-* ADRP-005 — Governance Interface
+It establishes governance rules including:
+
+* ADRP-001 — Responsibility Structure  
+* ADRP-002 — Human Judgment Node  
+* ADRP-003 — Decision Traceability  
+* ADRP-004 — Risk Boundary  
+* ADRP-005 — Governance Interface  
 
 ---
 
 ### Tool Layer
 
-The tool layer provides practical implementation methods:
+The tool layer translates protocol principles into actionable methods.
 
-* TOOL-001 — Decision Responsibility Map Builder
-* TOOL-002 — Human Judgment Node Checklist
-* TOOL-003 — Decision Traceability Template
+It provides practical implementation tools such as:
+
+* TOOL-001 — Decision Responsibility Map Builder  
+* TOOL-002 — Human Judgment Node Checklist  
+* TOOL-003 — Decision Traceability Template  
 
 ---
 
 ## Structural Logic
 
-The ADRP framework follows a layered governance structure:
+The ADRP framework follows a layered governance flow:
 
-Responsibility Structure
-→ Human Judgment
-→ Decision Traceability
-→ Risk Boundary
-→ Governance Interface
+Responsibility Structure  
+→ Human Judgment Node  
+→ Decision Traceability  
+→ Risk Boundary  
+→ Governance Interface  
 
-Each protocol is supported by corresponding tools to enable practical application.
+This sequence ensures that responsibility is defined before decisions are made, and traceability is preserved throughout the process.
 
 ---
 
@@ -61,20 +79,20 @@ Each protocol is supported by corresponding tools to enable practical applicatio
 
 The framework can be applied to:
 
-* enterprise AI governance
-* automated decision systems
-* risk management workflows
-* human-in-the-loop system design
-* audit and compliance preparation
+* enterprise AI governance  
+* automated decision systems  
+* risk management workflows  
+* human-in-the-loop system design  
+* audit and compliance preparation  
 
 ---
 
 ## How to Use
 
-1. Review the ADRP protocols to understand governance principles
-2. Use the tools to map and structure decision processes
-3. Apply the framework to real decision workflows
-4. Adapt based on organizational context
+1. Review the ADRP protocols to understand governance principles  
+2. Use the tools to map and structure decision processes  
+3. Apply the framework to real decision workflows  
+4. Adapt based on organizational context  
 
 ---
 
@@ -82,9 +100,9 @@ The framework can be applied to:
 
 This framework defines governance structures and does not prescribe:
 
-* specific technical implementations
-* legal or regulatory requirements
-* operational execution models
+* specific technical implementations  
+* legal or regulatory requirements  
+* operational execution models  
 
 ---
 
