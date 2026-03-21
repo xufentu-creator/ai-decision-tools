@@ -29,7 +29,7 @@ Human judgment functions as a structural constraint in AI-mediated decision syst
 
 The ADRP system is grounded in the following structural framework:
 
-![Human Judgment Governance Framework](./docs/human-judgment-framework-v1.0.png)
+![Human Judgment Governance Framework](https://raw.githubusercontent.com/xufentu-creator/judgment-as-structural-constraint/main/docs/human-judgment-framework-v1.0.png)
 
 ---
 
